@@ -29,7 +29,7 @@ Projeto de uma loja virtual desenvolvido durante os estudos de Laravel, com foco
 - JavaScript
 - HTML5
 - CSS3
-- Docker *(opcional)*
+- Docker 
 
 ---
 
